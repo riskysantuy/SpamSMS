@@ -102,9 +102,7 @@ sleep 0.03
 echo
 sleep 0.03
 echo "###DAFTAR TOOLS###"
-
 clear
-}
 load(){
     echo -e "\n"
     bar=" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "
